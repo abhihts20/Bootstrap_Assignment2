@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.company-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.nav-link{
+    margin: 10px 15px 15px 10px;
+}
+
+.navbar-brand{
+    margin-top: -20px;
+}
+
+p.blog-link{
+    background-color: #F18460;
+    border-radius: 3px;
+    padding: 0px 20px 0px 20px;
+    color: white !important;
+}
