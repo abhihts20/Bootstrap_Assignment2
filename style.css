@@ -44,7 +44,7 @@ p.blog-link {
         font-size: 1em;
     }
     #portfolio h2{
-        font-size: 1em;
+        font-size: 1.1em;
     }
 }
 
@@ -55,16 +55,6 @@ p.blog-link {
     width: 200px;
     margin-top: 15px;
 }
-
-
-
-.carousel-indicators {
-    text-align: right;
-    float: right;
-    left: 50% !important;
-    right: inherit;
-}
-
 
 .div-padding {
     padding-top: 100px;
@@ -130,10 +120,10 @@ p.blog-link {
     color: white;
 }
 
-#services h2{
+#about h2{
     padding: 30px 0 0 0;
 }
-#services  p,#offer p{
+#about p,#offer p{
     text-align: justify;
     font-size: 0.9rem;
 }
@@ -156,4 +146,20 @@ p.blog-link {
     height: 40px;
     width: 40px;
     background-color: white;
+}
+.fa-config
+{
+    margin-top: 5px;
+    color: #2994C0;
+    font-size: 3rem;
+}
+
+.div-square{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    margin-top: 5px;
+}
+#testimonials img{
+    padding: 20px 10px 20px 10px;
 }
